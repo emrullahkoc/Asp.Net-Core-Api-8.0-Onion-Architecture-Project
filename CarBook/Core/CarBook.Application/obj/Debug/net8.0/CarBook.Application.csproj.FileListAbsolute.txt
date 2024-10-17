@@ -1,0 +1,16 @@
+C:\Users\emrullahkoc\Desktop\Onion-Architecture\Asp.Net-Core-Api-8.0-Onion-Architecture-Project\CarBook\Core\CarBook.Application\bin\Debug\net8.0\CarBook.Application.deps.json
+C:\Users\emrullahkoc\Desktop\Onion-Architecture\Asp.Net-Core-Api-8.0-Onion-Architecture-Project\CarBook\Core\CarBook.Application\bin\Debug\net8.0\CarBook.Application.dll
+C:\Users\emrullahkoc\Desktop\Onion-Architecture\Asp.Net-Core-Api-8.0-Onion-Architecture-Project\CarBook\Core\CarBook.Application\bin\Debug\net8.0\CarBook.Application.pdb
+C:\Users\emrullahkoc\Desktop\Onion-Architecture\Asp.Net-Core-Api-8.0-Onion-Architecture-Project\CarBook\Core\CarBook.Application\bin\Debug\net8.0\CarBook.Domain.dll
+C:\Users\emrullahkoc\Desktop\Onion-Architecture\Asp.Net-Core-Api-8.0-Onion-Architecture-Project\CarBook\Core\CarBook.Application\bin\Debug\net8.0\CarBook.Domain.pdb
+C:\Users\emrullahkoc\Desktop\Onion-Architecture\Asp.Net-Core-Api-8.0-Onion-Architecture-Project\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.csproj.AssemblyReference.cache
+C:\Users\emrullahkoc\Desktop\Onion-Architecture\Asp.Net-Core-Api-8.0-Onion-Architecture-Project\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrullahkoc\Desktop\Onion-Architecture\Asp.Net-Core-Api-8.0-Onion-Architecture-Project\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.AssemblyInfoInputs.cache
+C:\Users\emrullahkoc\Desktop\Onion-Architecture\Asp.Net-Core-Api-8.0-Onion-Architecture-Project\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.AssemblyInfo.cs
+C:\Users\emrullahkoc\Desktop\Onion-Architecture\Asp.Net-Core-Api-8.0-Onion-Architecture-Project\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.csproj.CoreCompileInputs.cache
+C:\Users\emrullahkoc\Desktop\Onion-Architecture\Asp.Net-Core-Api-8.0-Onion-Architecture-Project\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.sourcelink.json
+C:\Users\emrullahkoc\Desktop\Onion-Architecture\Asp.Net-Core-Api-8.0-Onion-Architecture-Project\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook..F1F8929D.Up2Date
+C:\Users\emrullahkoc\Desktop\Onion-Architecture\Asp.Net-Core-Api-8.0-Onion-Architecture-Project\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.dll
+C:\Users\emrullahkoc\Desktop\Onion-Architecture\Asp.Net-Core-Api-8.0-Onion-Architecture-Project\CarBook\Core\CarBook.Application\obj\Debug\net8.0\refint\CarBook.Application.dll
+C:\Users\emrullahkoc\Desktop\Onion-Architecture\Asp.Net-Core-Api-8.0-Onion-Architecture-Project\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.pdb
+C:\Users\emrullahkoc\Desktop\Onion-Architecture\Asp.Net-Core-Api-8.0-Onion-Architecture-Project\CarBook\Core\CarBook.Application\obj\Debug\net8.0\ref\CarBook.Application.dll
